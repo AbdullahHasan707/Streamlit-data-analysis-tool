@@ -1,0 +1,301 @@
+student_id,study_hours,attendance_pct,assignments_score,midterm_score,final_score,department,gender,passed
+1,12.5,52.6,50.1,31.9,46.5,Computer Science,Female,0
+2,24.0,76.6,56.7,29.5,46.1,Mechanical,Male,0
+3,19.6,77.0,50.6,43.9,42.3,Electrical,Male,0
+4,17.0,81.9,45.3,33.6,43.9,Mechanical,Female,0
+5,8.1,86.3,47.2,29.7,46.7,Mechanical,Female,0
+6,8.1,98.8,67.6,50.9,59.3,Mechanical,Female,1
+7,6.2,75.8,52.4,27.1,36.9,Mechanical,Female,0
+8,22.3,66.1,61.9,27.2,36.9,Computer Science,Male,0
+9,17.0,89.8,70.2,31.7,51.3,Electrical,Male,1
+10,19.2,63.5,81.4,47.7,55.2,Computer Science,Male,1
+11,5.4,71.9,42.4,18.5,35.2,Electrical,Female,0
+12,24.4,53.9,88.0,58.5,62.2,Mechanical,Male,1
+13,21.6,51.3,77.7,23.4,47.1,Civil,Female,0
+14,9.2,98.1,44.9,49.4,44.4,Computer Science,Male,0
+15,8.6,91.8,92.4,50.4,66.7,Civil,Female,1
+16,8.7,84.8,95.3,47.4,58.4,Computer Science,Female,1
+17,11.1,70.4,43.7,26.2,46.6,Mechanical,Male,0
+18,15.5,58.7,56.6,36.6,36.5,Computer Science,Female,0
+19,13.6,57.8,88.4,41.9,60.7,Mechanical,Female,1
+20,10.8,62.5,84.9,50.0,54.0,Computer Science,Male,1
+21,17.2,77.5,51.1,36.9,38.7,Mechanical,Female,0
+22,7.8,85.7,52.6,36.5,39.2,Mechanical,Female,0
+23,10.8,83.0,62.2,35.6,42.5,Electrical,Female,0
+24,12.3,64.0,69.1,36.8,46.6,Mechanical,Male,0
+25,14.1,97.7,77.1,49.4,59.6,Electrical,Male,1
+26,20.7,86.9,62.1,28.5,40.7,Mechanical,Female,0
+27,9.0,77.7,67.8,27.8,41.4,Civil,Male,0
+28,15.3,80.6,84.8,52.1,70.1,Mechanical,Female,1
+29,16.8,71.0,42.2,33.3,48.2,Civil,Female,0
+30,5.9,62.4,55.1,29.3,38.7,Civil,Female,0
+31,17.2,67.8,82.8,43.7,52.0,Mechanical,Female,1
+32,8.4,87.9,93.7,51.0,59.4,Civil,Female,1
+33,6.3,50.7,70.7,28.9,41.8,Electrical,Male,0
+34,24.0,55.8,71.9,33.7,38.5,Computer Science,Female,0
+35,24.3,52.3,46.4,33.2,36.1,Mechanical,Male,0
+36,21.2,52.0,66.8,29.0,30.3,Civil,Male,0
+37,11.1,92.8,72.0,46.7,55.2,Mechanical,Female,1
+38,7.0,85.2,54.5,21.9,40.4,Electrical,Female,0
+39,18.7,73.7,56.2,45.4,44.1,Mechanical,Male,0
+40,13.8,54.9,62.6,37.7,51.2,Mechanical,Male,1
+41,7.4,74.6,41.2,31.6,28.2,Civil,Male,0
+42,14.9,73.7,59.3,44.9,38.0,Electrical,Female,0
+43,5.7,58.7,52.7,42.6,41.5,Computer Science,Male,0
+44,23.2,71.7,59.6,47.3,55.5,Computer Science,Female,1
+45,10.2,69.9,47.2,16.5,41.0,Civil,Female,0
+46,18.3,80.8,93.4,39.4,52.1,Mechanical,Female,1
+47,11.2,81.8,75.6,37.4,54.8,Civil,Male,1
+48,15.4,52.3,80.7,39.5,46.7,Civil,Female,0
+49,15.9,68.7,87.4,48.9,53.8,Civil,Female,1
+50,8.7,81.3,69.9,34.0,50.3,Mechanical,Female,1
+51,24.4,75.2,45.2,37.4,46.3,Electrical,Female,0
+52,20.5,92.8,72.2,40.3,42.8,Civil,Female,0
+53,23.8,82.9,75.2,41.4,61.4,Mechanical,Male,1
+54,22.9,58.1,84.7,32.7,55.8,Electrical,Female,1
+55,17.0,53.5,65.9,28.2,35.4,Civil,Female,0
+56,23.4,82.1,47.7,26.9,42.1,Computer Science,Male,0
+57,6.8,51.3,57.0,21.6,34.9,Electrical,Female,0
+58,8.9,79.3,61.8,45.5,48.9,Civil,Male,0
+59,5.9,97.0,78.8,37.2,47.0,Electrical,Female,0
+60,11.5,78.8,74.2,62.5,53.7,Electrical,Male,1
+61,12.8,69.4,61.4,40.1,44.2,Electrical,Male,0
+62,10.4,82.2,99.2,50.8,66.6,Electrical,Female,1
+63,21.6,72.9,76.3,37.1,52.4,Electrical,Female,1
+64,12.1,77.3,54.2,41.0,41.7,Electrical,Female,0
+65,10.6,97.1,46.1,31.8,45.6,Civil,Male,0
+66,15.9,69.3,49.2,34.3,22.5,Computer Science,Male,0
+67,7.8,98.1,54.8,58.9,60.4,Mechanical,Male,1
+68,21.0,95.3,49.6,39.5,36.3,Electrical,Female,0
+69,6.5,59.8,51.2,38.5,36.3,Mechanical,Male,0
+70,24.7,53.5,57.1,29.6,32.4,Civil,Male,0
+71,20.4,55.0,50.4,32.0,30.0,Electrical,Female,0
+72,9.0,50.9,93.8,55.2,61.9,Computer Science,Male,1
+73,5.1,54.7,44.8,20.9,26.0,Mechanical,Male,0
+74,21.3,84.2,71.5,59.2,60.5,Electrical,Female,1
+75,19.1,53.6,64.6,41.5,44.3,Civil,Male,0
+76,19.6,65.9,98.9,44.2,59.1,Computer Science,Female,1
+77,20.4,92.2,46.7,43.7,47.5,Mechanical,Female,0
+78,6.5,51.2,63.9,39.1,32.9,Mechanical,Female,0
+79,12.2,90.7,98.2,56.2,69.1,Electrical,Female,1
+80,7.3,64.1,91.9,30.0,43.1,Computer Science,Female,0
+81,22.3,55.9,89.0,38.8,41.3,Computer Science,Male,0
+82,17.5,84.8,55.5,36.9,42.3,Computer Science,Male,0
+83,11.6,81.4,50.3,34.3,49.8,Computer Science,Female,0
+84,6.3,93.9,80.1,49.7,60.3,Civil,Female,1
+85,11.2,86.8,95.8,50.9,57.5,Computer Science,Male,1
+86,11.5,90.2,73.4,32.8,45.2,Mechanical,Female,0
+87,19.6,64.1,74.3,44.0,47.8,Mechanical,Female,0
+88,17.8,58.9,56.8,39.0,54.7,Civil,Female,1
+89,22.7,87.5,86.2,54.7,63.4,Mechanical,Male,1
+90,14.4,90.3,51.2,46.4,50.4,Mechanical,Male,1
+91,7.4,99.5,59.4,46.6,56.1,Computer Science,Female,1
+92,19.3,70.6,65.5,43.2,49.6,Mechanical,Female,0
+93,20.2,68.6,70.5,40.4,46.5,Civil,Male,0
+94,16.2,88.8,54.5,25.7,39.3,Computer Science,Male,0
+95,20.4,67.0,46.9,37.0,40.2,Electrical,Female,0
+96,14.9,96.5,76.6,48.4,55.8,Computer Science,Female,1
+97,15.5,92.9,57.3,42.6,52.8,Civil,Male,1
+98,13.6,71.4,74.9,30.6,44.7,Computer Science,Male,0
+99,5.5,87.5,49.3,25.3,41.1,Computer Science,Male,0
+100,7.2,87.7,68.9,48.8,50.8,Civil,Female,1
+101,5.6,55.2,72.0,34.0,41.5,Computer Science,Male,0
+102,17.7,95.1,43.1,42.7,33.7,Civil,Female,0
+103,11.3,75.3,60.2,36.7,48.8,Civil,Male,0
+104,15.2,91.3,48.1,37.5,45.8,Electrical,Male,0
+105,23.2,66.0,43.8,40.8,47.8,Mechanical,Male,0
+106,10.0,94.8,99.4,47.6,42.7,Mechanical,Male,0
+107,13.2,69.5,59.3,36.4,55.0,Computer Science,Female,1
+108,20.1,50.5,88.6,39.0,48.5,Computer Science,Female,0
+109,9.6,95.3,55.3,35.0,50.7,Electrical,Male,1
+110,6.5,54.6,80.9,34.7,37.3,Electrical,Female,0
+111,10.8,66.0,85.6,43.9,54.7,Electrical,Male,1
+112,8.2,97.5,75.7,40.9,45.2,Civil,Male,0
+113,23.6,97.5,68.3,57.1,55.5,Electrical,Male,1
+114,21.2,78.7,64.7,34.3,57.4,Electrical,Male,1
+115,17.7,81.6,60.9,38.4,45.2,Computer Science,Female,0
+116,22.4,72.4,95.8,46.4,59.2,Electrical,Male,1
+117,21.1,64.7,89.8,57.8,64.7,Civil,Male,1
+118,8.7,66.4,97.9,46.8,57.9,Civil,Female,1
+119,22.9,83.6,47.5,46.1,48.3,Computer Science,Male,0
+120,15.8,87.6,83.9,35.5,53.7,Electrical,Male,1
+121,21.1,89.6,96.3,55.3,78.3,Electrical,Male,1
+122,22.9,89.5,50.9,47.2,49.2,Civil,Female,0
+123,11.4,54.6,44.0,28.2,33.9,Electrical,Male,0
+124,7.2,74.7,84.5,51.0,60.5,Electrical,Female,1
+125,9.6,52.9,74.5,31.6,47.8,Electrical,Male,0
+126,13.5,77.5,90.5,58.0,67.3,Mechanical,Male,1
+127,21.4,72.1,48.4,53.7,52.5,Computer Science,Female,1
+128,22.2,94.4,87.7,49.0,53.3,Mechanical,Male,1
+129,5.1,67.5,52.1,27.1,44.8,Computer Science,Male,0
+130,15.2,55.9,49.8,42.3,33.9,Civil,Female,0
+131,13.3,57.1,49.9,43.0,42.7,Electrical,Female,0
+132,9.4,88.1,88.9,42.9,50.0,Computer Science,Female,0
+133,7.4,80.9,79.9,39.0,48.8,Mechanical,Female,0
+134,11.8,55.1,71.4,33.7,43.9,Electrical,Female,0
+135,23.9,54.2,61.5,25.7,40.5,Civil,Male,0
+136,11.5,85.0,92.6,40.9,57.1,Computer Science,Female,1
+137,15.4,53.6,63.5,26.4,47.2,Computer Science,Male,0
+138,19.1,91.1,89.0,44.5,60.2,Computer Science,Male,1
+139,12.3,85.3,66.3,40.4,46.5,Electrical,Male,0
+140,24.4,54.1,62.6,38.8,50.0,Mechanical,Female,0
+141,24.2,54.2,67.8,50.9,57.4,Mechanical,Female,1
+142,10.0,99.3,58.1,32.3,37.0,Computer Science,Male,0
+143,14.9,68.7,84.9,51.6,58.7,Civil,Female,1
+144,11.0,68.5,70.2,36.3,48.8,Civil,Female,0
+145,10.7,90.6,53.9,37.1,42.3,Mechanical,Female,0
+146,5.7,97.4,94.0,54.8,69.4,Civil,Female,1
+147,17.2,99.3,63.0,34.9,47.2,Mechanical,Male,0
+148,15.1,87.7,72.6,46.9,53.8,Computer Science,Male,1
+149,6.0,68.8,94.4,45.2,52.2,Mechanical,Female,1
+150,10.6,54.2,77.5,41.2,46.2,Mechanical,Male,0
+151,23.2,88.9,47.0,41.1,39.6,Computer Science,Female,0
+152,9.8,77.9,96.4,67.1,55.9,Civil,Female,1
+153,7.9,71.2,77.7,34.8,55.2,Mechanical,Male,1
+154,14.8,95.3,60.1,37.3,42.1,Mechanical,Male,0
+155,24.7,55.6,48.4,28.0,30.6,Computer Science,Male,0
+156,9.8,74.6,87.6,39.7,38.0,Civil,Female,0
+157,18.4,50.6,77.2,33.7,40.2,Mechanical,Male,0
+158,20.2,73.4,72.0,51.9,45.9,Computer Science,Female,0
+159,9.8,52.8,93.6,52.9,64.3,Mechanical,Male,1
+160,19.6,55.9,87.3,38.7,55.7,Electrical,Male,1
+161,12.4,55.9,49.1,23.0,28.2,Computer Science,Female,0
+162,17.6,82.5,58.7,43.2,61.4,Civil,Female,1
+163,17.7,87.3,54.9,34.8,50.2,Civil,Female,1
+164,15.7,79.2,84.6,51.0,54.6,Civil,Female,1
+165,6.8,98.1,42.0,35.9,25.9,Civil,Female,0
+166,21.7,68.7,74.2,30.4,59.1,Mechanical,Female,1
+167,11.4,64.3,85.7,54.4,46.8,Mechanical,Female,0
+168,8.7,93.4,92.6,63.5,54.4,Civil,Female,1
+169,5.8,61.2,60.5,27.2,42.5,Civil,Male,0
+170,16.8,98.2,89.3,48.4,74.4,Civil,Female,1
+171,18.6,50.6,46.6,32.0,44.1,Mechanical,Female,0
+172,5.3,98.5,90.8,51.2,62.4,Civil,Male,1
+173,15.2,52.2,47.6,34.6,40.2,Civil,Female,0
+174,9.5,94.6,63.8,57.0,60.0,Electrical,Male,1
+175,17.9,76.4,87.8,45.6,59.8,Electrical,Male,1
+176,8.5,99.6,49.0,30.8,42.9,Civil,Female,0
+177,18.8,53.7,53.8,21.5,34.5,Computer Science,Male,0
+178,12.7,77.7,83.3,38.5,50.1,Civil,Female,1
+179,23.7,98.5,83.2,51.5,56.4,Electrical,Male,1
+180,7.8,76.2,78.5,55.5,53.1,Computer Science,Male,1
+181,11.8,81.5,81.6,40.2,40.9,Computer Science,Male,0
+182,7.3,84.8,72.6,42.7,48.8,Civil,Female,0
+183,23.5,72.7,55.1,38.0,38.7,Electrical,Female,0
+184,22.5,81.4,60.7,50.8,45.6,Electrical,Male,0
+185,10.2,79.2,50.9,54.4,49.5,Computer Science,Male,0
+186,18.2,95.1,94.5,48.6,69.3,Civil,Female,1
+187,21.3,52.3,75.0,35.4,50.5,Mechanical,Female,1
+188,16.1,64.0,64.1,45.2,37.5,Mechanical,Male,0
+189,15.6,97.5,67.7,50.0,48.7,Electrical,Male,0
+190,9.8,94.5,96.8,65.7,72.3,Mechanical,Female,1
+191,6.9,72.8,49.2,36.0,33.1,Electrical,Female,0
+192,22.9,81.0,75.2,42.8,51.3,Electrical,Female,1
+193,23.0,63.9,70.4,45.5,53.3,Electrical,Female,1
+194,17.7,59.4,76.7,49.1,45.4,Mechanical,Female,0
+195,11.8,73.2,41.1,37.1,39.1,Electrical,Male,0
+196,12.0,67.7,92.3,48.9,47.2,Computer Science,Female,0
+197,19.5,79.2,95.9,59.0,59.8,Civil,Male,1
+198,22.9,53.9,73.9,49.2,52.7,Civil,Female,1
+199,22.7,98.7,81.8,62.2,55.1,Electrical,Male,1
+200,20.6,99.3,95.3,59.8,69.4,Civil,Female,1
+201,17.8,84.9,82.4,45.7,55.1,Mechanical,Female,1
+202,6.7,76.8,49.2,33.3,41.8,Mechanical,Male,0
+203,8.2,65.5,74.6,47.6,50.5,Civil,Male,1
+204,23.0,90.7,76.4,41.4,62.0,Mechanical,Female,1
+205,17.1,84.2,65.4,44.6,51.0,Civil,Female,1
+206,5.2,58.1,84.2,35.3,42.3,Civil,Female,0
+207,7.0,95.5,96.1,50.3,60.6,Civil,Female,1
+208,18.3,91.1,95.5,62.6,69.5,Electrical,Female,1
+209,5.1,97.5,67.1,42.7,49.8,Civil,Male,0
+210,8.2,86.3,46.8,34.1,40.2,Electrical,Male,0
+211,16.0,80.7,99.1,39.8,51.8,Civil,Female,1
+212,18.8,70.9,90.3,52.9,54.2,Civil,Male,1
+213,18.0,96.6,47.5,44.1,39.2,Civil,Male,0
+214,9.5,93.3,95.3,67.4,77.2,Mechanical,Male,1
+215,19.2,52.3,92.2,41.4,43.8,Electrical,Female,0
+216,9.7,51.3,71.1,36.3,37.8,Electrical,Male,0
+217,11.5,68.8,75.5,41.9,43.9,Civil,Female,0
+218,19.9,90.5,63.9,55.9,61.3,Civil,Male,1
+219,18.0,99.4,43.3,37.5,42.6,Mechanical,Female,0
+220,22.0,57.5,60.1,38.4,50.9,Mechanical,Male,1
+221,18.2,79.7,88.2,52.7,54.7,Mechanical,Female,1
+222,16.4,69.0,40.3,32.3,38.3,Electrical,Female,0
+223,6.9,98.5,60.0,36.2,40.6,Electrical,Male,0
+224,12.4,92.1,63.9,42.8,62.3,Electrical,Female,1
+225,10.3,91.9,72.2,51.7,47.5,Civil,Female,0
+226,9.9,73.4,95.2,38.0,53.8,Electrical,Female,1
+227,24.5,70.7,60.8,40.8,50.8,Computer Science,Female,1
+228,12.9,63.7,60.8,29.2,41.5,Computer Science,Female,0
+229,22.8,52.8,84.3,52.3,53.3,Mechanical,Female,1
+230,17.6,93.2,67.1,31.9,46.3,Electrical,Female,0
+231,20.9,90.6,53.5,36.0,45.8,Computer Science,Female,0
+232,15.1,100.0,67.1,47.7,53.0,Mechanical,Male,1
+233,16.5,99.8,48.5,52.0,57.0,Electrical,Male,1
+234,14.9,77.8,50.6,34.7,54.4,Civil,Female,1
+235,8.9,88.4,69.9,36.9,43.9,Computer Science,Female,0
+236,19.4,97.2,65.1,59.9,50.5,Civil,Male,1
+237,10.6,92.5,94.9,38.6,54.6,Electrical,Male,1
+238,5.5,62.4,61.7,15.1,47.4,Computer Science,Male,0
+239,17.9,72.5,74.8,45.8,46.7,Electrical,Female,0
+240,8.5,56.5,77.9,33.2,52.8,Civil,Male,1
+241,23.8,97.7,40.8,30.7,52.0,Computer Science,Female,1
+242,24.1,80.3,79.8,52.9,54.7,Civil,Female,1
+243,23.3,61.4,50.7,36.4,44.5,Electrical,Male,0
+244,12.4,83.6,97.7,45.2,67.3,Electrical,Female,1
+245,5.3,80.9,48.9,22.2,32.0,Civil,Female,0
+246,23.6,67.9,64.9,47.1,48.7,Computer Science,Female,0
+247,13.6,55.7,45.1,33.9,32.4,Civil,Female,0
+248,24.3,83.6,99.8,53.2,57.5,Electrical,Male,1
+249,24.3,76.0,70.1,58.3,53.2,Civil,Male,1
+250,22.1,88.6,75.7,38.5,44.7,Electrical,Female,0
+251,10.9,76.0,44.0,19.5,32.6,Civil,Female,0
+252,12.7,92.6,85.0,42.3,50.0,Computer Science,Male,0
+253,22.0,77.6,52.6,37.5,45.6,Computer Science,Female,0
+254,11.3,78.0,93.9,49.1,47.8,Civil,Male,0
+255,8.4,93.8,52.3,35.0,44.8,Civil,Female,0
+256,16.1,70.2,51.4,37.1,46.5,Computer Science,Female,0
+257,23.7,56.7,42.2,21.1,20.3,Electrical,Male,0
+258,18.9,51.4,68.3,48.0,50.0,Computer Science,Male,1
+259,16.4,87.8,73.9,44.0,59.9,Electrical,Male,1
+260,6.9,81.0,43.9,40.4,33.4,Civil,Male,0
+261,17.3,85.2,86.5,50.9,68.3,Civil,Female,1
+262,24.8,60.6,67.2,43.4,50.7,Electrical,Male,1
+263,7.8,56.8,71.5,39.7,39.6,Civil,Female,0
+264,15.4,50.7,66.4,38.3,42.3,Electrical,Male,0
+265,22.5,67.5,64.0,44.6,51.9,Mechanical,Male,1
+266,19.8,79.5,73.6,54.6,56.6,Computer Science,Female,1
+267,18.9,69.6,49.3,36.0,44.2,Mechanical,Male,0
+268,19.0,71.9,50.9,41.0,38.2,Electrical,Male,0
+269,12.2,95.2,91.7,49.5,60.5,Computer Science,Male,1
+270,10.9,67.4,96.8,57.3,50.9,Electrical,Male,1
+271,21.2,75.7,62.4,34.8,44.4,Computer Science,Female,0
+272,21.2,89.2,56.2,55.5,48.4,Computer Science,Female,0
+273,22.3,69.8,78.6,43.9,47.8,Computer Science,Male,0
+274,23.3,81.1,64.5,31.1,52.8,Computer Science,Male,1
+275,15.2,93.1,41.5,36.7,48.6,Electrical,Male,0
+276,15.0,97.5,49.4,33.4,47.0,Computer Science,Female,0
+277,21.0,57.4,83.0,49.4,46.7,Computer Science,Female,0
+278,18.0,96.3,79.5,43.3,53.4,Mechanical,Female,1
+279,19.0,74.6,41.6,29.6,44.5,Civil,Female,0
+280,20.9,62.9,53.3,19.7,35.7,Civil,Male,0
+281,22.8,73.0,53.9,34.0,56.5,Mechanical,Male,1
+282,11.8,99.0,80.3,28.0,50.9,Mechanical,Male,1
+283,12.5,74.6,41.2,18.4,32.5,Electrical,Female,0
+284,6.9,66.4,46.2,35.3,35.2,Electrical,Male,0
+285,16.6,81.7,88.0,54.0,60.0,Electrical,Female,1
+286,5.7,62.0,50.7,32.7,35.3,Mechanical,Female,0
+287,14.3,53.8,79.2,31.1,47.4,Mechanical,Male,0
+288,15.9,56.4,54.3,32.0,43.7,Computer Science,Male,0
+289,10.7,56.4,46.0,28.3,28.7,Electrical,Male,0
+290,16.8,57.6,54.6,23.7,27.1,Electrical,Female,0
+291,5.6,56.9,83.3,50.1,39.5,Electrical,Female,0
+292,5.7,82.0,91.3,52.6,60.4,Civil,Male,1
+293,21.5,59.1,89.8,43.4,46.4,Computer Science,Male,0
+294,12.2,67.3,63.8,36.5,30.2,Electrical,Female,0
+295,7.5,94.8,80.1,46.9,56.9,Electrical,Male,1
+296,15.4,73.7,52.3,18.7,49.7,Electrical,Female,0
+297,20.4,83.4,57.6,38.1,46.2,Civil,Female,0
+298,9.3,58.6,93.8,37.2,54.0,Civil,Male,1
+299,17.5,59.6,40.8,21.4,31.7,Mechanical,Male,0
+300,6.7,52.0,45.1,23.7,29.3,Computer Science,Male,0

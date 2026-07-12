@@ -1,1 +1,8 @@
-# Streamlit-data-analysis-tool
+# Data Analysis Tool
+
+Run:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
