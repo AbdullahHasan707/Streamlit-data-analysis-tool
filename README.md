@@ -1,12 +1,12 @@
-# 📊 Development of an Automated Exploratory Data Analysis & Visualization Dashboard
+#  Development of an Automated Exploratory Data Analysis & Visualization Dashboard
 
 An interactive, dynamic web-based Data Analytics Portal built with **Streamlit** to streamline data ingestion, preprocessing, and exploratory data analysis (EDA). Developed as part of the **KPITB AI/ML Internship Capstone Framework**, this production-ready tool automates manual data profiling workflows and provides instantaneous visual insights into structured student data.
 
-🚀 **Live Production Link:** [View Dashboard](https://app-data-analysis-tool-hyurro4pwuzfexnwf5hcj7.streamlit.app/)
+ **Live Production Link:** [View Dashboard](https://app-data-analysis-tool-hyurro4pwuzfexnwf5hcj7.streamlit.app/)
 
 ---
 
-## 🛠️ Core Functional Architecture
+##  Core Functional Architecture
 
 *   **Dynamic Data Ingestion:** Supports automated structural parsing for multiple data file extensions (`.csv`, `.xlsx`, `.json`, `.txt`).
 *   **Programmatic Data Profiling:** One-click generation of statistical summaries, feature dimension mappings (`df.shape`), and structural metadata types (`df.dtypes`).
@@ -15,7 +15,7 @@ An interactive, dynamic web-based Data Analytics Portal built with **Streamlit**
 
 ---
 
-## 💻 Technical Stack
+##  Technical Stack
 
 *   **Language:** Python 3.10+
 *   **Web Framework:** Streamlit
