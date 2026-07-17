@@ -24,7 +24,7 @@ An interactive, dynamic web-based Data Analytics Portal built with **Streamlit**
 
 ---
 
-## 📂 Project Organization Matrix
+##  Project Organization Matrix
 
 ```text
 ├── app.py                   # Main backend application engine and Streamlit layout code
