@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Data Analysis Tool",layout="wide")
-st.title("📊 Data Analysis Tool")
+st.set_page_config(page_title="Data Analysis Toolkit",layout="wide")
+st.title("📊 Data Analysis Toolkit")
 
 f=st.file_uploader("Upload CSV, Excel, JSON or TXT",type=["csv","xlsx","json","txt"])
 df=None
